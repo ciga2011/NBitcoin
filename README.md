@@ -212,6 +212,8 @@ node.VersionHandshake();
 
 ## Useful doc :
 
+* **Course** [Programming Bitcoin App in C#](http://xc.hubwiz.com/course/5c766a59f54a5e207931b5a5?affid=github7878)
+
 * **Ebook** [Programming The Blockchain in C#](https://www.gitbook.com/book/programmingblockchain/programmingblockchain/details)
 
 * **NBitcoin Github** : [https://github.com/NicolasDorier/NBitcoin](https://github.com/NicolasDorier/NBitcoin "https://github.com/NicolasDorier/NBitcoin")
